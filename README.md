@@ -1,4 +1,4 @@
-## Steps to run app:
+## Steps to run the app:
 ## 1] Download the whole project into a folder.
 ## 2] Start Android Emulator with Android Version 6.0 or above. { The app is designed and tested on LG Nexus 5X (5.20'), so dimensions may vary.}
 ## 3] Open the project folder(HPDF1-master/).
