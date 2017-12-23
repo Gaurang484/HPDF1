@@ -1,0 +1,4 @@
+#Sat Dec 23 21:51:42 IST 2017
+base.0=C\:\\Users\\gaura\\Desktop\\HPDF1\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
