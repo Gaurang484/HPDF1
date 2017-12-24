@@ -5,7 +5,7 @@
 ## 4] Shift+Right Click > Open Command prompt here (or Open Powershell window here).
 ## 5] Type: react-native run-android
 ## 6] If it shows Build Successful,then the app will appear on your emulator.
-## 7] If it shows Build unsuccessful/failed(rarely happens),then in the command prompt, type: cd android
+## 7] If it shows Build unsuccessful/failed (rarely happens), then in the command prompt, type: cd android
 ## 8] Then, 
       For Windows Command Prompt, type:	 gradlew clean
 	    For Windows PowerShell, type: .\gradlew clean
