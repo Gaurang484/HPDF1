@@ -1,15 +1,16 @@
-## Steps to run the app:
+## Steps to run app:
 ## 1] Download the whole project into a folder.
 ## 2] Start Android Emulator with Android Version 6.0 or above. { The app is designed and tested on LG Nexus 5X (5.20'), so dimensions may vary.}
 ## 3] Open the project folder(HPDF1-master/).
 ## 4] Shift+Right Click > Open Command prompt here (or Open Powershell window here).
-## 5] Type: react-native run-android
-## 6] If it shows Build Successful,then the app will appear on your emulator.
-## 7] If it shows Build unsuccessful/failed (rarely happens), then in the command prompt, type: cd android
-## 8] Then, 
-      For Windows Command Prompt, type:	 gradlew clean
+## 5] Type: cd android
+## 6] Then, 
+      For Windows Command Prompt, type: gradlew clean
 	    For Windows PowerShell, type: .\gradlew clean
-## 9] The command prompt will show Build Successful , then go back to your project folder(HPDF1-master/) and repeat step 4 and step 5.
+## 7] The command prompt will show Build Successful , then go back to your project folder(HPDF1-master/) and repeat step 4.
+## 8] In the command prompt, type: react-native run-android.
+## 9] The app will run on your emulator.
+
 ## Note:The program will start the node server, DONOT CLOSE that server, or else the app will not load. You need a good internet connection. Running the app for the first time will take some time, please patiently wait for the app to load.DONOT CLOSE any programs opened by the app itself.
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
