@@ -1,5 +1,6 @@
 ## Steps to run app:
-## 1] Download the whole project into a folder.
+## 1] Get the Repository 
+	git clone https://github.com/Gaurang484/HPDF1.git
 ## 2] Start Android Emulator with Android Version 6.0 or above. { The app is designed and tested on LG Nexus 5X (5.20'), so dimensions may vary.}
 ## 3] Open the project folder(HPDF1-master/).
 ## 4] Shift+Right Click > Open Command prompt here (or Open Powershell window here).
